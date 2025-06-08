@@ -1,0 +1,25 @@
+/* TEAM */
+    Developer: Giocoliere
+    Contact: giocoliere@proton.me
+    GitHub: https://github.com/giocoliere
+    Twitter: @giocolieredev
+    Bluesky: @giocoliere.dev
+    Mastodon: @gioco@mas.to
+    From: Italy
+
+/* SITE */
+    Last update: 2024/11/18
+    Language: English
+    Doctype: HTML5
+    IDE: Visual Studio Code, Cursor
+    Technologies: React, TypeScript, Vite, TailwindCSS
+    
+/* THANKS */
+    AI Assistants: GitHub Copilot, Claude, ChatGPT
+    Cloud Services: Vercel, Netlify, Firebase
+    
+/* PROJECTS */
+    CreeperHUB: https://creeperhub.net
+    Creepercraft: https://creepercraft.net
+    OtakuForge: https://creeperhub.net/otakuforge
+    CreeperLAB: https://creeperlab.org

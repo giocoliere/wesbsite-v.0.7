@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Don't allow crawling of admin or private areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+Disallow: /assets/audio/
+
+# Sitemap location
+Sitemap: https://giocoliere.dev/sitemap.xml
+
+# Additional sitemaps for other domains
+Sitemap: https://gioco.lol/sitemap.xml
+Sitemap: https://gioco.is-a.dev/sitemap.xml
+
+# Crawl delay to prevent overloading the server
+Crawl-delay: 10
+
+# Block specific bots if needed
+User-agent: Googlebot-Image
+Allow: /assets/img/
+
+# Social media specific bots
+User-agent: Twitterbot
+Allow: /

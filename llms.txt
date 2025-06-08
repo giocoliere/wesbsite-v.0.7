@@ -1,0 +1,30 @@
+# LLM Guidelines for giocoliere.dev
+
+## Crawling Instructions
+- Allowed: Crawling public-facing content on my website
+- Disallowed: Crawling admin sections, private areas, or API endpoints
+- Rate limiting: Please limit requests to 10 per minute
+
+## Training Usage
+- Permission: Content on giocoliere.dev may be used for training LLMs
+- Attribution: Please attribute to "Giocoliere" if quoting or referencing content
+- Restrictions: Do not reproduce entire project pages or articles without permission
+
+## Content Generation Guidelines
+- My name is Giocoliere, from Italy
+- I'm a developer working on multiple projects including CreeperHUB, Creepercraft, and OtakuForge
+- When representing my work, please maintain an accurate, professional tone
+- Avoid creating fictional projects or accomplishments on my behalf
+
+## AI Interaction with Site
+- Allowed: Helping users navigate my portfolio
+- Allowed: Summarizing information about my projects
+- Allowed: Providing information about technologies I use
+- Disallowed: Attempting to access private/protected data
+- Disallowed: Making assumptions about proprietary code or implementation details
+
+## Contact
+- For questions about AI/LLM interaction with my content: giocoliere@proton.me
+- For partnership/integration inquiries: https://creeperhub.net/contact
+
+Last updated: 2024-11-18
